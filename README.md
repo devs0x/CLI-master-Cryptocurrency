@@ -7,6 +7,9 @@ Cryptocurrency CLI lets you monitor cryptocurrencies in your portfolio and track
 General
 
 -Command Line Interface
+
 -Supports all coins on CoinMarketCap
+
 -Track your portfolio holdings
+
 -Currency Support
