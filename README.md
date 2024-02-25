@@ -13,3 +13,16 @@ General
 -Track your portfolio holdings
 
 -Currency Support
+
+Crypto Table
+
+1. Coin Rank
+2. Price
+3. Coins Owned
+4. Net Worth
+5. 24 Hour Volume
+6. Market Cap
+7. % Change 1 Hour
+8. % Change 1 Day
+9. % Change 1 Week
+10. Last Updated
